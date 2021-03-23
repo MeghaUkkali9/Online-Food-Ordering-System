@@ -1,0 +1,41 @@
+id,original_title,cateogry,price,spicy_level,hotness,popularity,cooking_time,available_all_day,vote_average,vote_count
+1,Sev,Apetizer,6.99,mild,warm,9.8,15,yes,6.3,1
+2,Samosa,Apetizer,4.99,medium,warm,10,20,no,8.7,2
+3,Pani Puri,Apetizer,4.99,medium,warm,9.9,10,yes,7.8,3
+4,Dahi Vada,Apetizer,5.99,mild,cold,9.7,10,yes,6.7,4
+5,Bhel,Apetizer,6.99,more,warm,10,15,yes,8.7,5
+6,Kachori,Apetizer,6.99,more,warm,8,15,yes,9.8,6
+7,Radbi,Apetizer,7.99,extra,hot,7,20,no,9.6,7
+8,Dosa,Apetizer,10.99,more,hot,9.5,15,yes,7.6,8
+9,Idly,Apetizer,5.99,mild,hot,10,20,no,8.9,9
+10,Vada,Apetizer,4.99,more,hot,10,15,yes,8.3,10
+11,Chicken Masala,Meal,10.99,mild,warm,9.5,25,yes,6.3,1
+12,Chicken Tikka Masala,Meal,10.99,mild,warm,9.4,25,yes,8.7,2
+13,Chicken Tandoori,Meal,11.99,more,hot,9.8,30,yes,7.8,3
+14,Chicken Biryani,Meal,12.99,extra,hot,10,35,no,6.7,4
+15,Mutton Biryani,Meal,13.99,extra,hot,10,45,yes,8.7,5
+16,Paneer Butter Masala,Meal,10.99,more,warm,8.9,25,yes,9.8,6
+17,Paneer Korma,Meal,9.99,mild,warm,8,30,yes,9.6,7
+18,Aaloo Masala,Meal,8.99,more,hot,10,15,yes,7.6,8
+19,Bhendi Sabji,Meal,7.99,mild,hot,10,20,yes,8.9,9
+20,Jeera Rice,Meal,3.99,mild,warm,9.1,15,yes,8.3,10
+21,Motichoor Rabdi,Dessert,4.99,sweet,cold,8,15,no,6.3,1
+22,Rasamalai,Dessert,3.99,sweet,cold,10,10,no,8.7,2
+23,Rasgula,Dessert,3.99,sweet,cold,9,10,no,7.8,3
+24,Kulfi,Dessert,2.99,sweet,cold,10,10,no,6.7,4
+25,Gulab Jamun,Dessert,3.99,sweet,cold,9.4,15,no,8.7,5
+26,Chocolate Cake,Dessert,2.99,sweet,cold,10,20,no,9.8,6
+27,Jalebi,Dessert,2.99,sweet,cold,10,15,no,9.6,7
+28,Ice Cream,Dessert,1.99,sweet,cold,9.5,15,no,7.6,8
+29,Vanilla Cake,Dessert,2.99,sweet,cold,8.5,20,yes,8.9,9
+30,Tiramasu Cake,Dessert,3.99,sweet,cold,10,15,yes,8.3,10
+31,Ginger Coffee Mocktail,Drinks,2.99,sweet,cold,8.5,5,yes,6.3,1
+32,Lemonade-Lime Mocktail,Drinks,2.99,sweet,cold,7,5,yes,8.7,2
+33,Mango Margarita,Drinks,3.99,sweet,cold,8.9,5,yes,7.8,3
+34,Mango Maple Ginger,Drinks,4.99,sweet,cold,10,5,yes,6.7,4
+35,Cucumber Mint Mocktail,Drinks,5.99,sweet,cold,6.7,5,no,8.7,5
+36,Cranberry Cosmo Mocktail,Drinks,5.99,sweet,cold,5,5,yes,9.8,6
+37,Coke,Drinks,1.29,sweet,cold,10,5,no,9.6,7
+38,Orange Juice,Drinks,1.99,sweet,cold,5.5,5,yes,7.6,8
+39,Tea,Drinks,1.99,sweet,hot,8.5,5,no,8.9,9
+40,Coffee,Drinks,2.99,sweet,hot,7.5,5,yes,8.3,10
